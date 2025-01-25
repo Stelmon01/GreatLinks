@@ -32,7 +32,8 @@ const websiteData = [
          { name: 'Wired', link: 'https://www.wired.com', rank: 2, description: 'Wired is a popular magazine and online publication launched in 1993, known for its focus on technology, science, and culture. It covers a broad range of topics, including innovations, digital culture, and the impact of technology on society.' },
          
         ]
-      }
+      },
+      
   ];
   
   export default websiteData;
