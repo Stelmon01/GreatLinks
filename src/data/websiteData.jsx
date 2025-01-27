@@ -785,29 +785,6 @@ const websiteData = [
           ]
         },
         {
-          category: "Online Forums",
-          sites: [
-            {
-              name: "Reddit",
-              link: "https://www.reddit.com",
-              rank: 1,
-              description: "Reddit is a platform where users can discuss and share content across various communities known as subreddits."
-            },
-            {
-              name: "Quora",
-              link: "https://www.quora.com",
-              rank: 2,
-              description: "Quora is a question-and-answer platform where users can seek knowledge or share expertise on diverse topics."
-            },
-            {
-              name: "Stack Exchange",
-              link: "https://stackexchange.com",
-              rank: 3,
-              description: "Stack Exchange is a network of Q&A websites, with communities dedicated to specific subjects like programming and science."
-            }
-          ]
-        },
-        {
           category: "Cryptocurrency Platforms",
           sites: [
             {
