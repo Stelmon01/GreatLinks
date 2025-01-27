@@ -8,7 +8,7 @@ function Category({ category, sites }) {
         {sites.map((site) => (
           <li key={site.name}>
             <p><a href={site.link} target="_blank" rel="noopener noreferrer">{site.name}</a></p>
-            <p>{site.description}</p>
+            {/* <p>{site.description}</p> */}
           </li>
         ))}
       </ul>

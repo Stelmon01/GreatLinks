@@ -86,7 +86,7 @@ function Home() {
         </div>
         <div className='randAndHome'>
         <RandomButton onGenerateRandomLinks={generateRandomLinks} />
-        <HomeButton onReturnHome={returnToCategories} /> {/* Pass function to return home */}
+        <HomeButton onReturnHome={returnToCategories} />
         </div>
       </div>
 

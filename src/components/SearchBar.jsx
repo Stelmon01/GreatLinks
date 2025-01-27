@@ -5,7 +5,7 @@ function SearchBar({ onSearchChange }) {
     <div className="search-bar">
       <input
         type="text"
-        placeholder="Search categories"
+        placeholder="Search"
         onChange={onSearchChange}
       />
     </div>
