@@ -35,6 +35,7 @@ function Home() {
   };
 
   const returnToCategories = () => {
+    setSearchTerm("");
     setIsRandomMode(false); // Switch back to categories mode
     setCurrentPage(1); // Reset to page 1 when returning to categories
   };

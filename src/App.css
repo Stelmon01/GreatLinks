@@ -186,13 +186,15 @@ header p {
 
 /* Home button styling */
 .home-button {
-  padding: 0.5rem 1rem;
+  padding: 0.5rem 1.7rem;
   font-size: 1.2rem;
   background-color: #ffeb3b;
   color: #000;
   text-decoration: none;
-  border: 2px solid #000;
+  border: 3px solid #000;
   border-radius: 15px;
+  cursor: pointer;
+  transition: background-color 0.3s ease;
 }
 
 .home-button:hover {
