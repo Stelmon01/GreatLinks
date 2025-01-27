@@ -33,6 +33,75 @@ const websiteData = [
          
         ]
       },
+      {
+        category: "Online Shopping",
+        sites: [
+          {
+            name: "Amazon",
+            link: "https://www.amazon.com",
+            rank: 1,
+            description: "Amazon is the world’s largest online retailer, offering a wide variety of products, from books and electronics to clothing and home goods. Founded by Jeff Bezos in 1994, it also provides cloud computing services and streaming entertainment."
+          },
+          {
+            name: "eBay",
+            link: "https://www.ebay.com",
+            rank: 2,
+            description: "eBay is an online auction and shopping website launched in 1995, where individuals and businesses can buy and sell items. It features a wide range of new and used goods across numerous categories."
+          },
+          {
+            name: "Alibaba",
+            link: "https://www.alibaba.com",
+            rank: 3,
+            description: "Alibaba is a leading global e-commerce platform based in China, founded in 1999. It connects businesses with suppliers worldwide, focusing on wholesale trade and bulk product sourcing."
+          }
+        ]
+      },
+      {
+        category: "Streaming Platforms",
+        sites: [
+          {
+            name: "Netflix",
+            link: "https://www.netflix.com",
+            rank: 1,
+            description: "Netflix is a popular streaming platform offering a wide selection of movies, TV shows, and original content. Launched in 1997, it pioneered subscription-based streaming services globally."
+          },
+          {
+            name: "YouTube",
+            link: "https://www.youtube.com",
+            rank: 2,
+            description: "YouTube is a video-sharing platform where users can upload, watch, and interact with videos. Founded in 2005, it is a hub for diverse content, from tutorials and entertainment to educational videos."
+          },
+          {
+            name: "Spotify",
+            link: "https://www.spotify.com",
+            rank: 3,
+            description: "Spotify is a music streaming service launched in 2008, offering millions of songs, podcasts, and playlists. It allows users to listen on-demand or discover curated recommendations."
+          }
+        ]
+      },
+      {
+        category: "News and Media",
+        sites: [
+          {
+            name: "BBC News",
+            link: "https://www.bbc.com/news",
+            rank: 1,
+            description: "BBC News is a trusted international news outlet providing accurate and up-to-date coverage on global events, politics, science, and culture."
+          },
+          {
+            name: "CNN",
+            link: "https://www.cnn.com",
+            rank: 2,
+            description: "CNN is a leading news organization offering 24-hour coverage of breaking news, politics, and global events, founded in 1980 by Ted Turner."
+          },
+          {
+            name: "Reuters",
+            link: "https://www.reuters.com",
+            rank: 3,
+            description: "Reuters is a global news agency delivering real-time, in-depth reports on business, finance, technology, and world news."
+          }
+        ]
+      },
       
   ];
   

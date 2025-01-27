@@ -17,7 +17,7 @@ function Home() {
   const [currentPage, setCurrentPage] = useState(1); // Track the current page
   const [isRandomMode, setIsRandomMode] = useState(false); // Track if showing random links
 
-  const categoriesPerPage = 2; // Number of categories to display per page
+  const categoriesPerPage = 4; // Number of categories to display per page
   const randomLinksPerPage = 4; // Number of random links to display per page
 
   const handleSearchChange = (event) => {
